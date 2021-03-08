@@ -1,0 +1,17 @@
+{
+  "name": "miniproj",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "js mini game",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joe Yates",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "readline-sync": "^1.4.10",
+    "terminal-kit": "^2.0.5"
+  }
+}
